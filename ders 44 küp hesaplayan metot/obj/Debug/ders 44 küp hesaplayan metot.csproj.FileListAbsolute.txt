@@ -1,0 +1,10 @@
+C:\Users\docal\source\repos\ders 44 küp hesaplayan metot\ders 44 küp hesaplayan metot\bin\Debug\ders 44 küp hesaplayan metot.exe.config
+C:\Users\docal\source\repos\ders 44 küp hesaplayan metot\ders 44 küp hesaplayan metot\bin\Debug\ders 44 küp hesaplayan metot.exe
+C:\Users\docal\source\repos\ders 44 küp hesaplayan metot\ders 44 küp hesaplayan metot\bin\Debug\ders 44 küp hesaplayan metot.pdb
+C:\Users\docal\source\repos\ders 44 küp hesaplayan metot\ders 44 küp hesaplayan metot\obj\Debug\ders 44 küp hesaplayan metot.csprojAssemblyReference.cache
+C:\Users\docal\source\repos\ders 44 küp hesaplayan metot\ders 44 küp hesaplayan metot\obj\Debug\ders_44_küp_hesaplayan_metot.Form1.resources
+C:\Users\docal\source\repos\ders 44 küp hesaplayan metot\ders 44 küp hesaplayan metot\obj\Debug\ders_44_küp_hesaplayan_metot.Properties.Resources.resources
+C:\Users\docal\source\repos\ders 44 küp hesaplayan metot\ders 44 küp hesaplayan metot\obj\Debug\ders 44 küp hesaplayan metot.csproj.GenerateResource.cache
+C:\Users\docal\source\repos\ders 44 küp hesaplayan metot\ders 44 küp hesaplayan metot\obj\Debug\ders 44 küp hesaplayan metot.csproj.CoreCompileInputs.cache
+C:\Users\docal\source\repos\ders 44 küp hesaplayan metot\ders 44 küp hesaplayan metot\obj\Debug\ders 44 küp hesaplayan metot.exe
+C:\Users\docal\source\repos\ders 44 küp hesaplayan metot\ders 44 küp hesaplayan metot\obj\Debug\ders 44 küp hesaplayan metot.pdb
